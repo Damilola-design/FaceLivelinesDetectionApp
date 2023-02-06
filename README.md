@@ -12,4 +12,4 @@ The problem of detecting fake faces vs real/legitimate faces is treated as a bin
  3. Train the liveness detector network.
  4. Create a Python + OpenCV script capable of taking our trained liveness detector model and apply it to real-time video.
  5. Create a webplatform to access the liveness detection algorithm in an interactive manner.
- 6. To run the program cd to face_liveness_detection than run "python3 face_recognition_liveness_app.py -m MODEL -l LE -d FACE_DETECTOR"
+ 6. To run the program cd to face_liveness_detection then run "python3 face_recognition_liveness_app.py -m MODEL -l LE -d FACE_DETECTOR"
